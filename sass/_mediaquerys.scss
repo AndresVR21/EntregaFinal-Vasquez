@@ -1,0 +1,56 @@
+@media (max-width: 375px) {
+  .navbar_list {
+    display: block;
+    text-align: center;
+  }
+}
+
+@media (max-width: 475px) {
+  .navbar_list {
+    display: block;
+    text-align: center;
+  }
+}
+
+@media (max-width: 375px) {
+  .tarjeta-mobile {
+    display: block;
+  }
+}
+
+@media (max-width: 475px) {
+  .tarjeta-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+/*Habilidades Mobile */
+@media (max-width: 375px) {
+  .habilidades-mobile {
+    display: block;
+    flex-direction: column;
+  }
+}
+
+@media screen and (max-width: 475px) {
+  .habilidades-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+/*obras */
+
+@media screen and (max-width: 475px) {
+  .containerobracasapionia {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
